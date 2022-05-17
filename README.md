@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋A SHAY DESIGN E SERVIÇOS É UMA EMPRESA CARIOCA, ESPECIALIZADA EM MANUTENÇÃO CORPORATIVA, MONTAGEM DE PDV, INSTALAÇÕES ELÉTRICAS, MANUTENÇÃO MOBILIÁRIA, REFORMAS COMERCIAIS E RESIDENCIAIS. ATUANTE EM TODO TERRITÓRIO NACION
 
-<!--
-**ShayDesigneServicos/ShayDesigneServicos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
